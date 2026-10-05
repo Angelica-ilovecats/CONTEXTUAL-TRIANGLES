@@ -1,0 +1,32 @@
+export const HOME_TRIANGLES = [
+  {
+    id: 'works',
+    label: "Work that I'm proud of",
+    lines: ['Work that', "I'm proud of"],
+    href: '/works',
+    image: '/images/home/forest.jpg',
+    alt: 'Yellow point-cloud forest against a dark background',
+    position: 'top',
+    objectPosition: '50% 60%',
+  },
+  {
+    id: 'interesting',
+    label: 'Things I think are interesting',
+    lines: ['Things', 'I think', 'are interesting'],
+    href: '/interesting',
+    image: '/images/home/horses.jpg',
+    alt: 'Collage of pale horse heads against black',
+    position: 'left',
+    objectPosition: '50% 48%',
+  },
+  {
+    id: 'others',
+    label: "Work of others that I wish I'd made",
+    lines: ['Work of others', "that I wish I'd made"],
+    href: '/others',
+    image: '/images/home/sculpture.jpg',
+    alt: 'Blue and white luminous sculpture in a dark landscape',
+    position: 'right',
+    objectPosition: '50% 50%',
+  },
+];
