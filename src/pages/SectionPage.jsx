@@ -7,7 +7,7 @@ const content = {
 };
 
 const projects = [
-  'The Earth Surgery Project', 'Breath Vessel', 'Algae Eaters’ Club', 'Forced Symbiosis', 'The Escapee',
+  'Breath Vessel', 'The Earth Surgery Project', 'Algae Eaters’ Club', 'Forced Symbiosis', 'The Escapee',
   'Digital Forest', 'This Is Not a Verifier',
 ];
 
