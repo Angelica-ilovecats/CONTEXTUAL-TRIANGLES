@@ -14,6 +14,7 @@ const projects = [
 const projectVideoLinks = {
   'The Earth Surgery Project': 'https://youtu.be/LMkEklNrjTI',
   'Breath Vessel': 'https://youtu.be/w_Qjx8aDdJI',
+  'The Escapee': 'https://youtu.be/wPjYLTra1tg',
   'Algae Eaters’ Club': 'https://youtu.be/NbA_R6hUkv0',
   'This Is Not a Verifier': 'https://youtu.be/NA8fZloK4pI',
   'Forced Symbiosis': 'https://youtu.be/aabdPqr_Nm4',
