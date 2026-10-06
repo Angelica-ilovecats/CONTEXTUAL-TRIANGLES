@@ -131,7 +131,8 @@ a { color: inherit; }
 .work-caption { padding-top: 13px; }
 .work-caption h2 { margin: 0 0 6px; font-size: clamp(18px, 2vw, 24px); line-height: 1.2; font-weight: 400; }
 .work-caption p { margin: 0; max-width: 34em; color: #777; font-size: 14px; line-height: 1.5; }
-.work-caption .work-video-link { margin: 0 0 8px; color: #555; font-size: 13px; line-height: 1.35; }
+.work-caption .work-tags.has-video-link { margin-bottom: 4px; }
+.work-caption .work-video-link { margin: 0 0 22px; color: #555; font-size: 13px; line-height: 1.35; }
 .work-video-link a { color: #2f6fae; text-underline-offset: 3px; }
 .work-caption .work-tags { margin: 10px 0 18px; color: #333; font-size: 12px; letter-spacing: .035em; }
 .work-caption .project-description { max-width: 72em; color: #555; font-size: 15px; line-height: 1.72; }
